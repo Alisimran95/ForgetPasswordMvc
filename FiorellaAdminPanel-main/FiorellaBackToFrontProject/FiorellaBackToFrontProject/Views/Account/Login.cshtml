@@ -55,8 +55,9 @@
                             <span asp-validation-for="Password" class="text-danger"></span>
                         </div>
                         <div class="checkbox">
-                            <label>
-                                <input type="checkbox"> Remember Me
+                            <label asp-for="RememberMe">
+                                @Html.CheckBoxFor(m=>m.RememberMe)
+                                Remember me?
                             </label>
                             <label class="pull-right">
                                 <a asp-controller="Account" asp-action="ResetPassword">Forgotten Password?</a>

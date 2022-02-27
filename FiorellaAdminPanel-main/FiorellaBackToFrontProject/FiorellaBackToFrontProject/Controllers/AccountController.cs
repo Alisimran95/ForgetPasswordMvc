@@ -87,7 +87,7 @@ namespace FiorellaBackToFrontProject.Controllers
                 return View();
             }
 
-            var result = await _signInManager.PasswordSignInAsync(existUser,loginViewModel.Password,false,true);
+            var result = await _signInManager.PasswordSignInAsync(existUser,loginViewModel.Password,loginViewModel.RememberMe,false);
             if (result.IsLockedOut)
             {
                 ModelState.AddModelError("","Invalid Credentials");

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nkWApGSmd7C2IkCtqRJcbTWQmj3bPz2Pvtk7KWPQyMykGU9wV0EMEivIgIO2wwyPyyryQg3vBIKHMJnQdc9+JA==",
+  "dgSpecHash": "+Xi/WjA7T3Dmx5p16FAiEBvYLnTBwT7aDfJoxSB93MlI0vyFrZK+VHY2wSwwxdF0R+iVQuRObpUQkyuGuDlYtw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\User\\Downloads\\MultiFileUpload-main\\MultiFileUpload-main\\FiorellaAdminPanel-main\\FiorellaBackToFrontProject\\FiorellaBackToFrontProject\\FiorellaBackToFrontProject.csproj",
+  "projectFilePath": "C:\\Users\\User\\Desktop\\GithubMvc\\ForgetPasswordMvc\\FiorellaAdminPanel-main\\FiorellaBackToFrontProject\\FiorellaBackToFrontProject\\FiorellaBackToFrontProject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\5.0.14\\microsoft.aspnetcore.cryptography.internal.5.0.14.nupkg.sha512",
