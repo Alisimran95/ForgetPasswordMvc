@@ -1001,3 +1001,4 @@ C:\Users\User\Desktop\GithubMvc\ForgetPasswordMvc\FiorellaAdminPanel-main\Fiorel
 C:\Users\User\Desktop\GithubMvc\ForgetPasswordMvc\FiorellaAdminPanel-main\FiorellaBackToFrontProject\FiorellaBackToFrontProject\obj\Debug\net5.0\ref\FiorellaBackToFrontProject.dll
 C:\Users\User\Desktop\GithubMvc\ForgetPasswordMvc\FiorellaAdminPanel-main\FiorellaBackToFrontProject\FiorellaBackToFrontProject\obj\Debug\net5.0\FiorellaBackToFrontProject.pdb
 C:\Users\User\Desktop\GithubMvc\ForgetPasswordMvc\FiorellaAdminPanel-main\FiorellaBackToFrontProject\FiorellaBackToFrontProject\obj\Debug\net5.0\FiorellaBackToFrontProject.genruntimeconfig.cache
+C:\Users\User\Desktop\GithubMvc\ForgetPasswordMvc\FiorellaAdminPanel-main\FiorellaBackToFrontProject\FiorellaBackToFrontProject\obj\Debug\net5.0\Razor\Views\Account\ChangeUserPassword.cshtml.g.cs
